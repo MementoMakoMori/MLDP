@@ -1,0 +1,73 @@
+
+        Function: Simple
+        -- N = 10000 --
+        Lazy map mean time: 0.012817835807800293
+        Lazy map min time: 0.012464761734008789
+
+        Par map mean time (2): 0.09609827995300294
+        Par map min time (2): 0.07948565483093262
+
+        Par map mean time (4): 0.08835339546203613
+        Par map min time (4): 0.07748579978942871
+
+        
+        Function: Simple
+        -- N = 100000 --
+        Lazy map mean time: 0.1775440216064453
+        Lazy map min time: 0.17644190788269043
+
+        Par map mean time (2): 0.6596850872039794
+        Par map min time (2): 0.6481003761291504
+
+        Par map mean time (4): 0.7344888687133789
+        Par map min time (4): 0.7168211936950684
+
+        
+        Function: Simple
+        -- N = 1000000 --
+        Lazy map mean time: 2.865672755241394
+        Lazy map min time: 2.854546546936035
+
+        Par map mean time (2): 6.619664144515991
+        Par map min time (2): 6.548718214035034
+
+        Par map mean time (4): 6.6845704317092896
+        Par map min time (4): 6.606202840805054
+
+        
+        Function: Longer
+        -- N = 10000 --
+        Lazy map mean time: 0.5694603443145752
+        Lazy map min time: 0.5579988956451416
+
+        Par map mean time (2): 0.36412975788116453
+        Par map min time (2): 0.3497884273529053
+
+        Par map mean time (4): 0.2444469451904297
+        Par map min time (4): 0.2371063232421875
+
+        
+        Function: Longer
+        -- N = 100000 --
+        Lazy map mean time: 5.571671462059021
+        Lazy map min time: 5.361171722412109
+
+        Par map mean time (2): 3.0268206357955934
+        Par map min time (2): 2.975370168685913
+
+        Par map mean time (4): 1.7946511268615724
+        Par map min time (4): 1.765885353088379
+
+        
+        Function: Longer
+        -- N = 1000000 --
+        Lazy map mean time: 55.92135238647461
+        Lazy map min time: 55.074361085891724
+
+        Par map mean time (2): 30.460250067710877
+        Par map min time (2): 30.053409576416016
+
+        Par map mean time (4): 16.98290581703186
+        Par map min time (4): 16.883852005004883
+
+        
